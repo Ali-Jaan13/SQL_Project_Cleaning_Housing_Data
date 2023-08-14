@@ -1,5 +1,3 @@
-# SQL_Project_Cleaning_Housing_Data
-In this project, I cleaned a dataset of housing properties using SQL to make it ready for visualizations.
 select Address, city
 From PortfolioProject..HousingData
 
